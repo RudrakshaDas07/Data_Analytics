@@ -36,7 +36,7 @@ If you encounter any issues or have questions:
 ## Acknowledgments
 
 - Data providers and business stakeholders
--Data Science community for open-source tools
+- Data Science community for open-source tools
 - Built with love and lots of coffee ☕
 
 
